@@ -2,7 +2,7 @@
 
 > **Módulo:** Planificación y Administración de Redes  
 > **Herramienta:** Cisco Packet Tracer  
-> **Curso:** 2024–2025 | Departamento de IT
+> **Curso:** 2025–2026 | Departamento de IT
 
 ---
 
