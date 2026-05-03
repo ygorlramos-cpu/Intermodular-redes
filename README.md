@@ -172,7 +172,7 @@ PC-Dev1>    ipconfig  →  IP: 192.168.30.100 / GW: 192.168.30.1
 
 ## 📄 Documentación
 
-- ([redes/documentacion.pdf](https://github.com/ygorlramos-cpu/Intermodular-redes/blob/271f945a50346c55bb5053ece047a7b381991a81/INTERMODULAR%20REDES.docx.pdf) — Esquema lógico y físico, tabla de direccionamiento, configuraciones, pruebas y conclusiones
+-[redes/documentacion.pdf](https://github.com/ygorlramos-cpu/Intermodular-redes/blob/271f945a50346c55bb5053ece047a7b381991a81/INTERMODULAR%20REDES.docx.pdf) — Esquema lógico y físico, tabla de direccionamiento, configuraciones, pruebas y conclusiones
 - [`guia_paso_a_paso.pdf`](redes/guia_paso_a_paso.pdf) — Guía detallada de implementación en Cisco Packet Tracer
 
 ---
